@@ -1,3 +1,11 @@
-# cloudbot.4n6ir.com
+# CloudBot Investigator Status
 
-A status page for CloudBot, the Cloud Investigations Bot, to keep a running list of its activities!
+A repository that tracks the ever-changing network IP ranges for the following public clouds with access by RSS feed and website.
+
+- Amazon Web Services
+- Cloudflare
+- Digital Ocean
+- Google Cloud
+- Microsoft Azure
+- Microsoft o365
+- Oracle Cloud
